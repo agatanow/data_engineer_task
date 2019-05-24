@@ -29,7 +29,7 @@ Please note that jupyter notebook file doesn't contain the tests from test.py.
 
 ## Running the tests
 
-To un the example tests type:
+To run the example tests type:
 ```
 python3 test.py
 ```
