@@ -37,6 +37,6 @@ This file covers example unit tests for validator.py file only.
 
 ## Authors
 
-* **Agata Nowicka** - [PurpleBooth](https://github.com/agatanow)
+* **Agata Nowicka** - [agatanow](https://github.com/agatanow)
 
 
